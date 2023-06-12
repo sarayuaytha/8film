@@ -1,0 +1,11 @@
+img {
+    height: 250px;
+       width: 190px;
+       border-radius: 20%;
+       float:left 2px;
+}
+div img{
+   height: 250px;
+   width: 250px;
+   border-radius: 0px;
+}
